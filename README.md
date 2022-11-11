@@ -1,10 +1,12 @@
 # VideoGameDb
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+This is a video game inventory build using Angular.
+It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+ - Clone the project using `git clone https://github.com/Jesse-Bett/video-game-db.git`.
+- Install all the dependancies using `npm i`.
+- Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -22,6 +24,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+- - -
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/40341693/201372804-de47619c-db34-4258-8a58-01e2da28dda0.png)
+![image](https://user-images.githubusercontent.com/40341693/201372992-bd07febc-9616-4d94-a20a-4fe18382ae47.png)
+
