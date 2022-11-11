@@ -27,6 +27,7 @@ import { GameTabsComponent } from './components/game-tabs/game-tabs.component';
     HomeComponent,
     DetailsComponent,
     GameTabsComponent
+
   ],
   imports: [
     BrowserModule,
